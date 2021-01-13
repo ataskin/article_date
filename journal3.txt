@@ -1,0 +1,2 @@
+doi1; ['Received: 18 December 2019', 'Accepted: 10 September 2020', 'Published: 29 October 2020', 'Issue Date: November 2020', 'DOI: https://doi.org/10.1007/s11192-020-03717-w']
+doi2; ['Received: 15 December 2019', 'Published: 14 October 2020', 'Issue Date: November 2020', 'DOI: https://doi.org/10.1007/s11192-020-03702-3']
